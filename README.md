@@ -158,11 +158,11 @@ PCB Layout
 
 PCB 3D Render
 
-**Electrical Schematic**
+**Electrical Schematic**:
 
 The system schematic was designed in KiCad to define the connections between the Arduino and peripheral components.
 
-**Web Dashboard**
+**Web Dashboard**:
 
 The ESP32 hosts a web dashboard displaying:
 -Current operating mode
@@ -178,14 +178,14 @@ A 3D enclosure was designed to house and integrate the electronic components.
 An engineering drawing was created to define the enclosure dimensions and geometry.
 
 
-**Software & Tools**
+**Software & Tools**:
 Programming
 C++
 HTML
 CSS
 JavaScript
 
-**Hardware & Embedded**
+**Hardware & Embedded**:
 Arduino Uno
 ESP32
 HC-SR04
