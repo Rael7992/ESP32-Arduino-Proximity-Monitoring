@@ -141,9 +141,11 @@ ESP32
    │ Wi-Fi
    ▼
 Web Browser
+
 PCB Design
 
 A custom PCB was designed in KiCad to integrate the Arduino-based sensing and control hardware.
+![PCB Layout](hardware/pcb/Layout.png)
 
 The PCB includes connections for:
 
