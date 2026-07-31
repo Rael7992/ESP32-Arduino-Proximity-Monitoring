@@ -164,6 +164,8 @@ PCB 3D Render
 
 The system schematic was designed in KiCad to define the connections between the Arduino and peripheral components.
 
+![Schematic](hardware/schematic/schematic.png)
+
 **Web Dashboard**:
 
 The ESP32 hosts a web dashboard displaying:
@@ -172,13 +174,15 @@ The ESP32 hosts a web dashboard displaying:
 -Current system state
 
 The dashboard automatically polls the ESP32 for updated data, allowing system information to change without manually refreshing the webpage.
+![Web Browser](images/Dashboard.png)
 
-Enclosure Design
+Enclosure Design:
 
 A 3D enclosure was designed to house and integrate the electronic components.
 
 An engineering drawing was created to define the enclosure dimensions and geometry.
 
+![CAD](hardware/CAD/enclosure_drawing.png)
 
 **Software & Tools**:
 Programming
